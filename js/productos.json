@@ -1,0 +1,182 @@
+[
+    {
+        "id": "relojes-01",
+        "titulo": "Reloj MidiMix",
+        "imagen": "./img/relojes/midimix.png",
+        "categoria": {
+            "nombre": "Relojes",
+            "id": "relojes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "reloj-02",
+        "titulo": "Reloj La Night",
+        "imagen": "./img/relojes/lanight.png",
+        "categoria": {
+            "nombre": "Relojes",
+            "id": "relojes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "reloj-03",
+        "titulo": "Reloj Silverall",
+        "imagen": "./img/relojes/silverall.png",
+        "categoria": {
+            "nombre": "Relojes",
+            "id": "relojes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "reloj-04",
+        "titulo": "Reloj SirBlue",
+        "imagen": "./img/relojes/sirblue.png",
+        "categoria": {
+            "nombre": "Relojes",
+            "id": "relojes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "reloj-05",
+        "titulo": "Reloj Skinglam",
+        "imagen": "./img/relojes/skinglam.png",
+        "categoria": {
+            "nombre": "Relojes",
+            "id": "relojes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "aritos.lady",
+        "titulo": "Aritos Lady Di",
+        "imagen": "./img/joyas/ladydi.png",
+        "categoria": {
+            "nombre": "Joyas",
+            "id": "joyas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "aritos.perla",
+        "titulo": "Aros de Perlas",
+        "imagen": "./img/joyas/aritos perla.png",
+        "categoria": {
+            "nombre": "Joyas",
+            "id": "joyas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cadena.plata",
+        "titulo": "Cadena de Plata y Oro",
+        "imagen": "./img/joyas/platayoro.jpeg",
+        "categoria": {
+            "nombre": "Joyas",
+            "id": "joyas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cadena.dije",
+        "titulo": "Cadenita con dije",
+        "imagen": "./img/joyas/cadenia dije.jpg",
+        "categoria": {
+            "nombre": "Joyas",
+            "id": "joyas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cadenita.plata",
+        "titulo": "Cadenita de Plata",
+        "imagen": "./img/joyas/cadenitaplata.png",
+        "categoria": {
+            "nombre": "Joyas",
+            "id": "joyas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "joyas.06",
+        "titulo": "Pulsera Cordón",
+        "imagen": "./img/joyas/pulsera crdon.png",
+        "categoria": {
+            "nombre": "Joyas",
+            "id": "joyas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "joyas.07",
+        "titulo": "Pulsera de Oro",
+        "imagen": "./img/joyas/poro.jpeg",
+        "categoria": {
+            "nombre": "Joyas",
+            "id": "joyas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "joyas-08",
+        "titulo": "Pulsera Pandora",
+        "imagen": "./img/joyas/pand.jpeg",
+        "categoria": {
+            "nombre": "Joyas",
+            "id": "joyas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "mate-01",
+        "titulo": "Mate AFA",
+        "imagen": "./img/mates/mate afa.jpg",
+        "categoria": {
+            "nombre": "Mates",
+            "id": "mates"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "mate-02",
+        "titulo": "Mate Pezuña",
+        "imagen": "./img/mates/mate-pezuna3.jpg",
+        "categoria": {
+            "nombre": "Mates",
+            "id": "mates"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "mate-03",
+        "titulo": "Mate River Plate",
+        "imagen": "./img/mates/materiverbomb.jpg",
+        "categoria": {
+            "nombre": "Mates",
+            "id": "mates"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "mate-04",
+        "titulo": "Mate Imperial",
+        "imagen": "./img/mates/6563.jpg",
+        "categoria": {
+            "nombre": "Mates",
+            "id": "mates"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "mate-05",
+        "titulo": "Mate de Cuero Blanco",
+        "imagen": "./img/mates/mate2.jpg",
+        "categoria": {
+            "nombre": "Mates",
+            "id": "mates"
+        },
+        "precio": 1000
+    }
+]
